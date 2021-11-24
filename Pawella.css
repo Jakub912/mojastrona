@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: blue;
+    font-size: 14px;
+}
+
+#imie {
+    margin-right: 50px;
+    float: left;
+}
+
+#tytul {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#linia {
+    float: left;
+    margin-right: 50px;
+}
+
+#liga {
+    float: left;
+}
+
+#skill {
+    float: left;
+    margin-right: 50px;
+}
+
+#dlaczego {
+    float: left;
+}
+
+#wyslij {
+    float: left;
+    margin-right: 50px;
+}
+
+#wyczysc {
+    float: left;
+}
